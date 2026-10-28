@@ -1,11 +1,6 @@
 <!-- <img align="right" src="https://github.com/wnzlff/pygame-rpg/blob/main/src/img/player/idle.png" /> -->
 
-### Hi there 👋
-Glad you found your way to my repository. I'm Paul and I'm happy to be working as CIO in Cologne. We use various tools like C#, Python, JavaScript, PhP and PL/SQL. Personally, I think Python is the strongest all-round tool here. During the day we try to create bug-free applications and maintain them, but at night I try to develop my own pixel-art games from time to time.
-
-I'm always happy when someone asks me for my collaboration for their open-source project, but I'm also just as grateful every time people participate in my projects.
-
-Kind regards,
-<br><br>
-Paul ✌️
-
+Hi, I’m Paul 👋
+As CIO, I focus on how technology can truly move a business forward. For me, it’s less about individual tools and more about making the right decisions, building strong teams, and creating solutions that work in everyday life.
+I’m interested in digital strategy, modern IT architecture, and the challenge of balancing innovation with stability.
+Away from the screen, you’ll often find me out with my camera. Photography sharpens my eye for detail and reminds me that the right perspective often makes all the difference.
